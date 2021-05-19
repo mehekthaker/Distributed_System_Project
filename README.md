@@ -1,9 +1,8 @@
 # Distributed System Project
-***
 ## Table of Contents
-1. [Client Functions](#client)
-2. [Primary Server Functions](#server)
-3. [Backup Server Functions](#backup)
+1. [Client Functions](#client-functions)
+2. [Primary Server Functions](#primary-server-functions)
+3. [Backup Server Functions](#backup-server-functions)
 
 ## Client Functions
 **Startup**
